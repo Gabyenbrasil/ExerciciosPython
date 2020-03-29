@@ -1,4 +1,4 @@
 # ExerciciosPython
 Exercícios realizados na FATEC-SP
  
-1) Primeiro- Exercicio do soma
+1) Primeiro- Exercicio  soma
